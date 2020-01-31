@@ -6,3 +6,4 @@ arr.forEach((item, index) => {
     console.log(`${index} is ${item}`);
 })    
 console.log(val);
+console.log("Hello");
